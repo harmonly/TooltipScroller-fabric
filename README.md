@@ -4,9 +4,6 @@
 
 A simple tool to scroll tooltip.
 
-Download and install the [**Fabric Loader**](https://fabricmc.net/use/installer/) and [**Fabric
-API**](https://www.curseforge.com/minecraft/mc-mods/fabric-api) first!
-
 Support Minecraft 1.19.x!
 
 - [**forge**](https://github.com/harmonly/TooltipScroller-fabric)
