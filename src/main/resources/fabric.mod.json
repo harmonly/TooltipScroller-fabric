@@ -1,0 +1,31 @@
+{
+  "schemaVersion": 1,
+  "id": "tooltipscroller",
+  "version": "${version}",
+  "name": "Tooltip Scroller",
+  "description": "A simple tool to scroll tooltip.",
+  "authors": [
+    "harmonly"
+  ],
+  "contact": {
+    "homepage": "https://github.com/harmonly/TooltipScroller",
+    "sources": "https://github.com/harmonly/TooltipScroller",
+    "issues": "https://github.com/harmonly/TooltipScroller/issues"
+  },
+  "license": "MIT",
+  "icon": "assets/tooltipscroller/icon.png",
+  "environment": "client",
+  "entrypoints": {
+    "client": [
+      "io.github.harmonly.tooltipscroller.ClientTooltipScroller"
+    ]
+  },
+  "mixins": [
+    "tooltipscroller.mixins.json"
+  ],
+  "depends": {
+    "minecraft": ">=1.19",
+    "fabric": ">=0.43.1",
+    "fabricloader": ">=0.13.0"
+  }
+}
