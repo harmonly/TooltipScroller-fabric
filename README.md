@@ -9,7 +9,7 @@ Download and install the [**Fabric Loader**](https://fabricmc.net/use/installer/
 Support Minecraft 1.19.x!
 Support Minecraft 1.19.x!
 
-- [**forge**](https://github.com/harmonly/TooltipScroller-fabric)
+- [**forge**](https://github.com/harmonly/TooltipScroller-forge)
 - [**fabric**](https://github.com/harmonly/TooltipScroller-fabric)
 
 ## Features✨
