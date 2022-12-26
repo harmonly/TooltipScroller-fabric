@@ -20,7 +20,7 @@ Support Minecraft 1.19.x!
 
 ## Before💥
 
-<img src="https://cdn.jsdelivr.net/gh/harmonly/TooltipScroller-fabric@main/assets/before.png" height="500px"></img>
+<img src="https://cdn.jsdelivr.net/gh/harmonly/TooltipScroller-fabric@mains/assets/before.png" height="500px"></img>
 
 ## After🎉
 
